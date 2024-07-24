@@ -1,4 +1,8 @@
 # Flux Solutions
-TODO Convert format of solutions to CSV or other opensource format.
+The current set of fully stabilized supersymmetric Minkowski flux solutions are found in, '[/full-stabilization/flux-sols-rep_part-01.txt](/full-stabilization/flux-sols-rep_part-01.txt).' The tadpole cancellation condition, $N_{flux}\leq 40$, which is a relation between the flux induced D$3$-brane charge and orientifold planes (O-planes), is satisfied exactly for these solutions (i.e. $N_{flux}=40$) which means no additional sources need to be introducted to cancel the anomaly. **Note:** This is not an exhaustive list of all $N_{flux}=40$, $\text{rank}=91$ solutions in this model. Additionally, the fluxes listed are not related by an $S_6$ transformation so they serve as a representative for a much larger set of solutions.
 
-TODO Spearate data based on number of stabilized moduli for others to more conveniently use.
+## Level-by-level strategy
+Searching the 180-dimensional integral flux lattice has been very successful at generating many solutions (see Figure 1 in the paper). The solutions generated in this way can be found in, 
+
+## $n$ - $\chi$ strategy
+One can leverage the quantization of individual fluxes to perform a straightforward (but somewhat tedious) systematic search for solutions with a small number fluxes turned on. This has been used effectively in previous work to find the minimum tadpole value in the $1^9$ model. We provide a simple code for implementing this strategy with $2$ - $\chi$'s turned on (i.e. allowed to be non-zero), found [here](). A general strategy was outlined in '[Constructing_LG_M-2-6.nb](../model-construction/Constructing_LG_M-2-6.nb)' and an exhaustive list (up to $S_6$ transformations) for $1,2$ and $3$ - $\chi$ flux solutions is provided in the paper. 
