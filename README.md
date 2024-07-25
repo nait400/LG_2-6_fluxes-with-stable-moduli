@@ -11,7 +11,7 @@ Those who are interested in obtaining the list of flux solutions leading to supe
 A basis of *mostly short* flux vectors spanning a 180-dimensional integer lattice can be found in '[/integral-basis](/integral-basis)'. This linearly independent set of vectors generates a supersymmetric Minkowski flux lattice which can be used as a computational faster tool for exploring the lattice. Further details of the "level-by-level" strategy can be found in the paper.
 
 ## Constructing the $2^6$ LG model
-We provide the code used for constructing this particular orientifold of the $2^6$ Landau-Ginzburg model here '[/model-construction](\model-construction)'. Comments are included but requires downloading the notebook and viewing in a Mathematica environment. 
+We provide the code used for constructing this particular orientifold of the $2^6$ Landau-Ginzburg model here '[/model-construction](/model-construction)'. Comments are included but requires downloading the notebook and viewing in a Mathematica environment. 
 
 ## References
 <a id="1">[1]</a>
