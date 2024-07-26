@@ -2,7 +2,7 @@
 Flux solutions with full moduli stabilization and without the need for higher order corrections. We provide lists of phenomenologically interesting Type IIB flux vacua which are based on a particular Landau-Ginzburg (LG) orientifold model: $2^6$ containing no Kahler moduli (i.e. is non-geometric). 
 
 This repository is intended as a supplement to the results presented in "*Tadpole conjecture
-in non-geometric backgrounds*"[[1]](#1), [2407.XXXXX](link). It may also be a potential starting point for anyone interested in learning more and/or working with these models. 
+in non-geometric backgrounds*"[[1]](#1), [2407.16758](https://arxiv.org/abs/2407.16758). It may also be a potential starting point for anyone interested in learning more and/or working with these models. 
 
 ## Phenomenologically interesting solutions
 Those who are interested in obtaining the list of flux solutions leading to supersymmetric Minkowski vacua with **all moduli stabilized** (i.e. where all scalar fields become massive) can find those in the following directory '[/fluxes/full-stabilization](/fluxes/full-stabilization)'. Further information about those files can be found in the parent directory.
@@ -17,4 +17,4 @@ We provide the code used for constructing this particular orientifold of the $2^
 <a id="1">[1]</a>
 K. Becker, N. Brady, M. Gra&ntilde;a, M. Morros, A. Sengupta, Qi You,
 "*Tadpole conjecture in non-geometric backgrounds*,"
-[arXiv:2407.XXXXX [hep-th]].
+[[arXiv:2407.16758 [hep-th]](https://arxiv.org/abs/2407.16758)].
